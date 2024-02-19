@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonatan (@jokona)
 - 👀 I’m interested in mathematics and deep learning amongst other stuff
-- 🌱 I’m currently studying computer science, pure mathematics, and jazz
+- 🌱 Studied computer science, pure mathematics, and jazz
 
 
 <!---
